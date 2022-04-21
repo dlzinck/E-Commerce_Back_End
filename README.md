@@ -7,7 +7,7 @@
 
 The goal of this project was to modify starter code to create the back end for an e-commerce site by modifying starter code. i WILL configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file I am able to connect to a database using Sequelize. When I enter schema and seed commands a development database is created and is seeded with test data. When I enter the command to invoke the application my server is started and the Sequelize models are synced to the MySQL database. When I open API GET routes in Insomnia for categories, products, or tags the data for each of these routes is displayed in a formatted JSON. When I test API POST, PUT, and DELETE routes in Insomnia I am able to successfully create, update, and delete data in my database.
+When I add my database name, MySQL username, and MySQL password to an environment variable file I am able to connect to a database using Sequelize. When I enter schema and seed commands a development database is created and is seeded with test data. When I enter the command to invoke the application my server is started and the Sequelize models are synced to the MySQL database. When I open API GET routes in Insomnia for categories, products, or tags the data for each of these routes is displayed in a formatted JSON. When I test API POST, PUT, and DELETE routes in Insomnia I am able to successfully create, update, and delete data in my database.
 
 
 ## Table of Contents
