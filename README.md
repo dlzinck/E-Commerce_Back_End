@@ -37,6 +37,11 @@ When I add my database name, MySQL username, and MySQL password to an environmen
 
 - [GitHub Repository](https://github.com/dlzinck/E-Commerce_Back_End)
 
+- [Return all & by ID](https://watch.screencastify.com/v/gkrblskgW4SOZwNNnklM)
+- [CREATE UPDATE DELETE Categories](https://watch.screencastify.com/v/efzfpKGEDnmnHrViCWhE)
+- [CREATE UPDATE DELETE Products](https://watch.screencastify.com/v/FIwEzZRds6SmNAdPRpOE)
+- [CREATE UPDATE DELETE Tags](https://watch.screencastify.com/v/9sT8MaiIYmZ6SsXyoSbr)
+
 
 ## Screenshots
 
