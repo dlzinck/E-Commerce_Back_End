@@ -14,7 +14,6 @@ When I add my database name, MySQL username, and MySQL password to an environmen
 
 - [Technology Used](#technology-used)
 - [Links](#links)
-- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Questions](#questions)
 - [License](#license)
@@ -40,9 +39,6 @@ When I add my database name, MySQL username, and MySQL password to an environmen
 - [CREATE UPDATE DELETE Categories](https://watch.screencastify.com/v/efzfpKGEDnmnHrViCWhE)
 - [CREATE UPDATE DELETE Products](https://watch.screencastify.com/v/FIwEzZRds6SmNAdPRpOE)
 - [CREATE UPDATE DELETE Tags](https://watch.screencastify.com/v/9sT8MaiIYmZ6SsXyoSbr)
-
-
-## Screenshots
 
 
 ## Usage
